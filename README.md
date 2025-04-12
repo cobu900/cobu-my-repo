@@ -21,7 +21,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 *A glimpse of some of the projects.*
 
 **RFM Analysis.**
-![image](1 anietie etuk data analytics car project.jpeg)
+![image](rfm_analysis 1.png)
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
