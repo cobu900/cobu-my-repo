@@ -22,26 +22,22 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 **RFM Analysis.**
 ![image](rfm_analysis 1.png)
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](cobu-my-repo/rfm_analysis.xlsx at main · cobu900/cobu-my-repo)
 
 
 **Customer Churn Analysis.**
 
 ![image](2 anietie etuk data analytics sales project.jpg)
-
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
 **Nigeria Covid 19 Analysis.**
 
 ![image](3 anietie etuk data analytics agro project.jpg)
-
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
 **Mutual Fund Investment Analysis.**
-
 ![image](4_mutual_fund_analysis.jpg)
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
