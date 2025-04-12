@@ -28,7 +28,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 **Customer Churn Analysis.**
 
-![image](2 anietie etuk data analytics sales project.jpg)
+![image](churn_analysis 2.png)
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
