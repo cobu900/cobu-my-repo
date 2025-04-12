@@ -22,14 +22,13 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 **RFM Analysis.**
 ![image](rfm_analysis 1.png)
-
 [Read More](https://github.com/cobu900/cobu-my-repo/blob/main/rfm_analysis.xlsx)
 
 
 **Customer Churn Analysis.**
 
 ![image](churn_analysis 2.png)
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://github.com/cobu900/cobu-my-repo/blob/main/churn%20analysis.xlsx)
 
 
 **Nigeria Covid 19 Analysis.**
