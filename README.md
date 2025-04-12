@@ -34,7 +34,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 **Nigeria Covid 19 Analysis.**
 
-![image](3 anietie etuk data analytics agro project.jpg)
+![image](covid_ng 3.png)
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
 
