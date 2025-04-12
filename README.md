@@ -39,7 +39,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 
 **Mutual Fund Investment Analysis.**
-![image](4_mutual_fund_analysis.jpg)
+![image](mutual_fund_portfolio 4.png)
 
 [Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
 
