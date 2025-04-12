@@ -34,7 +34,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 **Nigeria Covid 19 Analysis.**
 
 ![image](covid_ng 3.png)
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://github.com/cobu900/cobu-my-repo/blob/main/covid_ngr.xlsx)
 
 
 **Mutual Fund Investment Analysis.**
