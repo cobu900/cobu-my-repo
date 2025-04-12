@@ -26,21 +26,18 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 
 
 **Customer Churn Analysis.**
-
 ![image](churn_analysis 2.png)
 [Read More](https://github.com/cobu900/cobu-my-repo/blob/main/churn%20analysis.xlsx)
 
 
 **Nigeria Covid 19 Analysis.**
-
 ![image](covid_ng 3.png)
 [Read More](https://github.com/cobu900/cobu-my-repo/blob/main/covid_ngr.xlsx)
 
 
 **Mutual Fund Investment Analysis.**
 ![image](mutual_fund_portfolio 4.png)
-
-[Read More](https://www.linkedin.com/pulse/predictive-modeling-hypothesis-testing-using-titanic-dataset-anietie/)
+[Read More](https://github.com/cobu900/cobu-my-repo/blob/main/Mutual%20Fund%20Investment%20Portfolio.ipynb)
 
 
 ## CONTACT DETAILS
