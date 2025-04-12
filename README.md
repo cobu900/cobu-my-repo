@@ -1,2 +1,2 @@
-# cobu-my-repo
-data science projects in python
+# cobu-my-portfolio
+data analytics projects
