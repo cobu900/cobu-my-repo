@@ -23,7 +23,7 @@ I offer comprehensive training programs in data analysis, visualization, and dat
 **RFM Analysis.**
 ![image](rfm_analysis 1.png)
 
-[Read More](cobu-my-repo/rfm_analysis.xlsx at main · cobu900/cobu-my-repo)
+[Read More](https://github.com/cobu900/cobu-my-repo/blob/main/rfm_analysis.xlsx))
 
 
 **Customer Churn Analysis.**
